@@ -5,6 +5,11 @@
   font-family: 'Poppins', sans-serif;
 }
 
+body {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .header {
   width: 100%;
   background: rgb(252, 71, 71);
